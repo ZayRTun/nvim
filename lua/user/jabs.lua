@@ -1,0 +1,9 @@
+-- local status_ok, jsbs = pcall(require, "jabs")
+--
+-- if not status_ok then
+--   return
+-- end
+--
+-- jabs.setup {
+--
+-- }
